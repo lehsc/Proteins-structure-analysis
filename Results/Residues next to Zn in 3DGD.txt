@@ -1,0 +1,89 @@
+Átomos próximos ao zinco  4205 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       HIS       31     3.024  
+   0        A       ASP       74     2.607  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  4206 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       CYS       10     3.316  
+   0        A       HIS       56     3.488  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  4207 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       HIS       88     2.963  
+   0        A       HIS       90     3.152  
+   0        A       GLU       92     3.177  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  4220 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       GLU       61     2.822
+--------------------------------------------------
+
+Átomos próximos ao zinco  4221 ( B )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        B       CYS       10     3.200
+   0        B       HIS       56     3.300
+--------------------------------------------------
+
+Átomos próximos ao zinco  4222 ( B )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        B       HIS       31     3.224
+   0        B       ASP       74     2.896
+--------------------------------------------------
+
+Átomos próximos ao zinco  4223 ( B )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        B       HIS       88     2.962
+   0        B       HIS       90     3.290
+--------------------------------------------------
+
+Átomos próximos ao zinco  4244 ( B )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        B       GLU       62     3.293
+--------------------------------------------------
+
+Átomos próximos ao zinco  4257 ( C )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        C       HIS       88     2.937
+   0        C       HIS       90     3.149
+   0        C       GLU       92     3.001
+--------------------------------------------------
+
+Átomos próximos ao zinco  4258 ( C )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        C       CYS       10     3.268
+   0        C       HIS       56     3.082
+--------------------------------------------------
+
+Átomos próximos ao zinco  4279 ( C )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        C       HIS       31     3.001
+   0        C       ASP       74     2.618
+--------------------------------------------------
+
+Átomos próximos ao zinco  4280 ( D )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        D       HIS       31     3.126
+   0        D       ASP       74     2.884
+--------------------------------------------------
+
+Átomos próximos ao zinco  4281 ( D )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        D       CYS       10     3.150
+   0        D       HIS       56     3.302
+--------------------------------------------------
+
+Átomos próximos ao zinco  4282 ( D )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        D       GLU       62     3.175
+--------------------------------------------------
+
+Átomos próximos ao zinco  4283 ( D )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        D       HIS       88     2.986
+   0        D       HIS       90     3.124
+   0        D       GLU       92     3.451
+--------------------------------------------------

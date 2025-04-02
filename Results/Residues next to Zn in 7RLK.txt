@@ -1,0 +1,30 @@
+Átomos próximos ao zinco  3624 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       LYS       70     3.392  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  3625 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       ASP       61     2.783  
+   0        A       HIS      102     3.042  
+   0        A       HIS      104     3.337  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  3626 ( C )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        C       LYS       70     3.337  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  3627 ( C )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        C       ASP       61     2.722  
+   0        C       HIS      102     3.137
+   0        C       HIS      104     3.397
+--------------------------------------------------
+
+Átomos próximos ao zinco  3628 ( D )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        D       ASP       61     2.495
+   0        D       HIS      102     3.027
+   0        D       HIS      104     3.224
+--------------------------------------------------

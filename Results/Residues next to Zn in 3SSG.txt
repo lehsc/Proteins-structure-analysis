@@ -1,0 +1,47 @@
+Átomos próximos ao zinco  901 ( <Model id=0> )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       HIS       31     2.831  
+   0        A       ASP       74     2.724  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  902 ( <Model id=0> )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       HIS       90     3.228  
+   1        A       GLU       92     2.985  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  901 ( <Model id=1> )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   1        A       HIS       31     2.831  
+   1        A       ASP       74     2.724  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  902 ( <Model id=1> )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       GLU       92     2.985  
+   1        A       HIS       90     3.228  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  901 ( <Model id=2> )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   2        A       HIS       31     2.831  
+   2        A       ASP       74     2.724  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  902 ( <Model id=2> )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   2        A       HIS       90     3.228  
+   3        A       GLU       92     2.985  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  901 ( <Model id=3> )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   3        A       HIS       31     2.831  
+   3        A       ASP       74     2.724  
+--------------------------------------------------
+
+Átomos próximos ao zinco  902 ( <Model id=3> )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   2        A       GLU       92     2.985
+   3        A       HIS       90     3.228
+--------------------------------------------------

@@ -1,0 +1,77 @@
+Átomos próximos ao zinco  3778 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       CYS       10     2.676  
+   0        A       HIS       56     3.445  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  3779 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       HIS       31     2.811  
+   0        A       ASP       74     2.175  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  3780 ( A )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        A       HIS       88     2.865  
+   0        A       HIS       90     3.483  
+   0        A       GLU       92     2.772  
+-------------------------------------------------- 
+
+Átomos próximos ao zinco  3795 ( B )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        B       CYS       10     3.128
+   0        B       HIS       56     3.359
+--------------------------------------------------
+
+Átomos próximos ao zinco  3796 ( B )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        B       HIS       31     3.205
+   0        B       GLU       72     3.098
+   0        B       ASP       74     2.933
+--------------------------------------------------
+
+Átomos próximos ao zinco  3797 ( B )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        B       HIS       88     2.923
+   0        B       HIS       90     3.326
+   0        B       GLU       92     2.792
+--------------------------------------------------
+
+Átomos próximos ao zinco  3812 ( D )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        D       CYS       10     2.719
+   0        D       HIS       56     3.399
+--------------------------------------------------
+
+Átomos próximos ao zinco  3813 ( D )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        D       HIS       31     2.726
+   0        D       ASP       74     2.131
+--------------------------------------------------
+
+Átomos próximos ao zinco  3814 ( D )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        D       HIS       88     2.898
+   0        D       HIS       90     3.491
+   0        D       GLU       92     2.757
+--------------------------------------------------
+
+Átomos próximos ao zinco  3845 ( C )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        C       CYS       10     3.240
+   0        C       HIS       56     3.266
+--------------------------------------------------
+
+Átomos próximos ao zinco  3846 ( C )
+ Modelo   Cadeia  Resíduo  Número   Distância
+   0        C       HIS       31     3.236
+   0        C       GLU       72     3.132
+   0        C       ASP       74     2.899
+--------------------------------------------------
+
+Átomos próximos ao zinco  3847 ( C )
+ Modelo   Cadeia  Resíduo  Número   Distância 
+   0        C       HIS       88     2.942
+   0        C       HIS       90     3.363
+   0        C       GLU       92     2.835
+--------------------------------------------------
