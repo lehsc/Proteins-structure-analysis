@@ -9,4 +9,4 @@ Here you'll find four programs. They are
 
 All the files used in the reserch are available at "PDBs and Fastas" folder. Also there is a folder with some results and a PDF file with a report about the observed data in the structures with Zn.
 
-OBS: UA and UB stands for asymetrical unit and biological unit, respectly.
+OBS: UA and UB stands for asymetrical unit and biological unit, respectively.
